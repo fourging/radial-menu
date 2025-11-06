@@ -1,6 +1,6 @@
 # 🎯 RadialMenu — 逃离鸭科夫（Escape from Duckov）环形菜单模组
 
-> 版本：**v1.7（对应 Steam v1.7）**  
+> 版本：**v1.8（对应 Steam v1.8最新版）**  
 > 这是供无法通过 Steam 订阅/下载模组的玩家使用的仓库说明
 
 ---
@@ -25,7 +25,6 @@ RadialMenu 为《逃离鸭科夫》添加一个可自定义的环形快捷盘（
 ## 依赖模组（必须 / 推荐）
 - **ModSetting** — 实现模组设置与按键绑定（订阅以启用设置菜单）  
   链接（原文中存在两个不同 ID，请以 Steam 或仓库信息为准）：  
-  - https://steamcommunity.com/workshop/filedetails/?id=3589088839  
   - https://steamcommunity.com/workshop/filedetails/?id=3595729494
 
 - **HarmonyLib（Early Access）** — 用于实现子弹时间效果（如需要子弹时间功能请确保已安装）  
@@ -60,7 +59,7 @@ RadialMenu 为《逃离鸭科夫》添加一个可自定义的环形快捷盘（
 2. 选中要绑定的物品（物品方框高亮）。  
 3. **长按 Q（默认 0.25s）** 呼出绑定面板。  
 4. 移动鼠标到目标扇区，松开 Q 完成绑定。
-
+![示例图片](picture/绑定物品示范.webp)
 ### 使用物品
 - 游戏中 **长按 Q** 呼出圆盘菜单 → 指向扇区 → 松开 Q 使用绑定物品。
 
