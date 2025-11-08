@@ -12,11 +12,11 @@ RadialMenu 为《逃离鸭科夫》添加一个可自定义的环形快捷盘（
 
 ## 🌍 多语言支持
 
-- 如果您想为模组添加新的语言翻译，请参考GitHub仓库中的localization.cs文件
-- ✅ 完整支持：简体中文
-- ✅ 支持繁体中文（ChatGPT），英文（ChatGPT），日语（ChatGPT）
-- ✅ 支持韩语，非常感谢[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3595063544]regu1ar[/url]提供翻译
-- ✅ 支持俄语，非常感谢[url=https://steamcommunity.com/profiles/76561198796181022]ururu?[/url]提供翻译
+- 如果您想为模组添加新的语言翻译，请参考GitHub仓库中的[localization.cs](https://github.com/fourging/radial-menu/blob/main/LocalizationHelper.cs)文件和[语言翻译说明文件](https://github.com/fourging/radial-menu/blob/main/%E8%AF%AD%E8%A8%80%E7%BF%BB%E8%AF%91%E8%AF%B4%E6%98%8E.md)
+- ✅ 完整支持简体中文
+- ✅ 完整支持繁体中文（ChatGPT），English（ChatGPT），Japanese（ChatGPT）
+- ✅ 完整支持Korean，非常感谢[regu1ar](https://steamcommunity.com/sharedfiles/filedetails/?id=3595063544)提供翻译
+- ✅ 完整支持Russian，非常感谢[ururu?](https://steamcommunity.com/profiles/76561198796181022)提供翻译
 - 🤝 欢迎社区贡献翻译！
 
 
