@@ -10,6 +10,16 @@ RadialMenu 为《逃离鸭科夫》添加一个可自定义的环形快捷盘（
 
 如果遇到圆盘卡在屏幕上不消失的问题：按一次 **Win（Windows）键** 当游戏窗口失去焦点后，圆盘会自动关闭。
 
+## 🌍 多语言支持
+
+- 如果您想为模组添加新的语言翻译，请参考GitHub仓库中的localization.cs文件
+- ✅ 完整支持：简体中文
+- ✅ 支持繁体中文（ChatGPT），英文（ChatGPT），日语（ChatGPT）
+- ✅ 支持韩语，非常感谢[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3595063544]regu1ar[/url]提供翻译
+- ✅ 支持俄语，非常感谢[url=https://steamcommunity.com/profiles/76561198796181022]ururu?[/url]提供翻译
+- 🤝 欢迎社区贡献翻译！
+
+
 ---
 
 ## 资源与下载
@@ -18,7 +28,7 @@ RadialMenu 为《逃离鸭科夫》添加一个可自定义的环形快捷盘（
   https://steamcommunity.com/sharedfiles/filedetails/?id=3593171934
 
 - **非 Steam 下载（GitHub）**：  
-  https://github.com/fourging/radial-menu
+  [https://github.com/fourging/radial-menu](https://github.com/fourging/radial-menu/blob/main/RadialMenu.zip)
 
 ---
 
